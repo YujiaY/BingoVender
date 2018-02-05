@@ -1,0 +1,15 @@
+﻿D:\Program Files\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  SpotPrize.cpp
+e:\@@@2017 dip of sd@@@\@自学书籍@\@c++ win32 api\@theforger's win32 api programming tutorial@\source\assignment2\spotprize.cpp(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  SpareSource.cpp
+  SalesInvoice.cpp
+e:\@@@2017 dip of sd@@@\@自学书籍@\@c++ win32 api\@theforger's win32 api programming tutorial@\source\assignment2\salesinvoice.cpp(88): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Product.cpp
+e:\@@@2017 dip of sd@@@\@自学书籍@\@c++ win32 api\@theforger's win32 api programming tutorial@\source\assignment2\product.cpp(65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  BingoSalesSys.cpp
+e:\@@@2017 dip of sd@@@\@自学书籍@\@c++ win32 api\@theforger's win32 api programming tutorial@\source\assignment2\bingosalessys.cpp(145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BigSpender.cpp
+e:\@@@2017 dip of sd@@@\@自学书籍@\@c++ win32 api\@theforger's win32 api programming tutorial@\source\assignment2\bigspender.cpp(40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Assignment2.vcxproj -> E:\@@@2017 Dip of SD@@@\@自学书籍@\@C++ Win32 API\@theForger's Win32 API Programming Tutorial@\source\Debug\@Assignment2.exe

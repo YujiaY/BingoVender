@@ -1,0 +1,3 @@
+1,Hole Punch,7.92,3,22.57,Jack,123456
+2,CD box of 10,3.95, Number of Item Sold: 3, Total Value of Sales:18.96
+999,Total sales for 05-02-2018.09:51:02,0.00, Number of Item Sold: 6, Total Value of Sales:41.53
